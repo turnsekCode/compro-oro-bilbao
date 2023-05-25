@@ -1672,7 +1672,7 @@ const Section_uno = ()=>{
                 children: [
                     /*#__PURE__*/ (0,jsx_runtime_.jsxs)("h1", {
                         children: [
-                            "Compro oro en",
+                            "Compro oro ",
                             /*#__PURE__*/ jsx_runtime_.jsx("span", {
                                 className: (section_uno_module_default()).linea,
                                 children: "Bilbao"
