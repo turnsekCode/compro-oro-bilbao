@@ -11,7 +11,7 @@ const Section_uno = () => {
     <section className={styles.contenedorSectionUno}>
       <div className={styles.bloqueIzq}>
         <h1>
-          Compro oro en<span className={styles.linea}>Bilbao</span>
+          Compro oro <span className={styles.linea}>Bilbao</span>
         </h1>
         <p>
           Vender oro en Bilbao nunca había sido tan fácil. En Quickgold te
