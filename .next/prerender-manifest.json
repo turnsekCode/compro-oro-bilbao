@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"version":3,"routes":{"/":{"initialRevalidateSeconds":1,"srcRoute":null,"dataRoute":"/_next/data/stujO7wIwIfAjcdjJTB9f/index.json"}},"dynamicRoutes":{},"notFoundRoutes":[],"preview":{"previewModeId":"7c6108ac1644f82c7e33a96a64bca4ee","previewModeSigningKey":"0a0c9fd76966cb27908c9cc3342a9cc27f618300078ae6a451ab698cf0378a5e","previewModeEncryptionKey":"ba316f815ed7d75d05d8af7190d155d9a14fe0006862c0eb7d03afb6f7f74cd4"}}
+=======
+{"version":3,"routes":{"/":{"initialRevalidateSeconds":1,"srcRoute":null,"dataRoute":"/_next/data/iAZ-TTTJ5V0b3Kay4MMCx/index.json"}},"dynamicRoutes":{},"notFoundRoutes":[],"preview":{"previewModeId":"a2ef3d08e7f37c7f834c027d1dc4bd81","previewModeSigningKey":"ac3685a051e2f4cb8120a6d41abc570ba8100b1db75e9dcb966961cc8a0c159d","previewModeEncryptionKey":"ce9d0c0def42d392e128237f5ffde976b01d869ccf3ecbd69f689ea5009352f1"}}
+>>>>>>> 50ee09793acf34edd91df3263b6e8b26896c6b16

@@ -1,7 +1,12 @@
 {
   "/_app": "pages/_app.js",
+<<<<<<< HEAD
   "/api/hello": "pages/api/hello.js",
   "/_document": "pages/_document.js",
+=======
+  "/_document": "pages/_document.js",
+  "/api/hello": "pages/api/hello.js",
+>>>>>>> 50ee09793acf34edd91df3263b6e8b26896c6b16
   "/_error": "pages/_error.js",
   "/": "pages/index.js",
   "/404": "pages/404.html"

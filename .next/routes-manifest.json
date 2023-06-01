@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"version":3,"pages404":true,"basePath":"","redirects":[{"source":"/:path+/","destination":"/:path+","internal":true,"statusCode":308,"regex":"^(?:/((?:[^/]+?)(?:/(?:[^/]+?))*))/$"}],"headers":[],"dynamicRoutes":[],"staticRoutes":[{"page":"/","regex":"^/(?:/)?$","routeKeys":{},"namedRegex":"^/(?:/)?$"}],"dataRoutes":[{"page":"/","dataRouteRegex":"^/_next/data/stujO7wIwIfAjcdjJTB9f/index.json$"}],"rsc":{"header":"RSC","varyHeader":"RSC, Next-Router-State-Tree, Next-Router-Prefetch"},"rewrites":[]}
+=======
+{"version":3,"pages404":true,"basePath":"","redirects":[{"source":"/:path+/","destination":"/:path+","internal":true,"statusCode":308,"regex":"^(?:/((?:[^/]+?)(?:/(?:[^/]+?))*))/$"}],"headers":[],"dynamicRoutes":[],"staticRoutes":[{"page":"/","regex":"^/(?:/)?$","routeKeys":{},"namedRegex":"^/(?:/)?$"}],"dataRoutes":[{"page":"/","dataRouteRegex":"^/_next/data/iAZ\\-TTTJ5V0b3Kay4MMCx/index.json$"}],"rsc":{"header":"RSC","varyHeader":"RSC, Next-Router-State-Tree, Next-Router-Prefetch"},"rewrites":[]}
+>>>>>>> 50ee09793acf34edd91df3263b6e8b26896c6b16
